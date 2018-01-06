@@ -1,0 +1,7 @@
+25 ; jJúlio ; Juliana ; 12/12/1990 ; musica ; 28 ; 12 ; Sexo ; 
+22 ; Ricardo Lopes ; Porto ; 05/07/1995 ; Comedia ; 23 ; 10 ; Trabalho ; 
+23 ; Diana Pinto ; Trancoso ; 17/08/1993 ; Comedia ; 25 ; 10 ; Ferias ; 
+20 ; Mariana Costa ; Sao Pedro ; 12/12/1999 ; Musica ; 19 ; 8 ; Ferias ; 
+23 ; Carolina Morgado ; Japao ; 13/05/1997 ; Danca ; 21 ; 6 ; Viagem ; 
+21 ; Maria Antonia ; Algarve ; 08/08/1998 ; teatro ; 20 ; 5 ; Escola ; 
+19 ; Camilo Branco ; Lisboa ; 05/05/1999 ; danca ; 19 ; 8 ; doenca ; 

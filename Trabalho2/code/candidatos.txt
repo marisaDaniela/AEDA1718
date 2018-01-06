@@ -1,0 +1,5 @@
+14 ; Marco Gomes ; Gouveia ; 07/03/2008 ; musica ; 10
+8 ; Andre Lazaro ; Praceta Joao Gloma ; 20/12/1999 ; musica ; 15
+9 ; Luís Lázaro ; Praceta João Carlos ; 23/10/2000 ; danca ; 18
+10 ; Luís Ferreira ; Praceta João Carlos ; 02/02/1997 ; musica ; 19
+26 ; Maria Rita ; Santa Cruz ; 12/11/1988 ; Musica ; 30

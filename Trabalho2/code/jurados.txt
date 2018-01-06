@@ -1,0 +1,7 @@
+1 ; Andre Lazaro ; Praceta Joao Gloma ; 918939727 ; danca
+2 ; Luís Lázaro ; Praceta João Carlos ; 967666919 ; musica
+3 ; Luís Ferreira ; Rua Abílio Valente ; 962877096 ; teatro
+4 ; maria ; morada ; 929455555 ; musica
+5 ; Manel ; sao pedro ; 929999999 ; genero
+6 ; Marisa ; Vila do Conde ; 939797977 ; musica
+7 ; Paulo ; Mexico ; 934444444 ; teatro
