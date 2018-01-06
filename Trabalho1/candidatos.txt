@@ -1,0 +1,7 @@
+8 ; Andre Lazaro ; Praceta Joao Gloma ; 20/12/1999 ; musica
+9 ; Luís Lázaro ; Praceta João Carlos ; 23/10/2000 ; danca
+10 ; Luís Ferreira ; Praceta João Carlos ; 02/02/1997 ; musica
+11 ; sofia ; daniela ; 1/12/2000 ; danca
+12 ; Ines ; Gondomar ; 06/10/1999 ; danca
+13 ; Goncalo ; Guimaraes ; 1/09/1999 ; musica
+14 ; Marco ; Gouveia ; 7/03/2007 ; musica
