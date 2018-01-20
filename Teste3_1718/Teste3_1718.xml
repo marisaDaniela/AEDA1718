@@ -1,0 +1,15 @@
+<testsuites>
+	<testsuite name="AllTests" tests="7">
+		<testcase classname="AllTests" name="test_A_"/>
+		<testcase classname="AllTests" name="test_B_"/>
+		<testcase classname="AllTests" name="test_C_"/>
+		<testcase classname="AllTests" name="test_D_"/>
+		<testcase classname="AllTests" name="test_E_"/>
+		<testcase classname="AllTests" name="test_F_"/>
+		<testcase classname="AllTests" name="test_G_">
+			<failure message="../src/Test.cpp:353 test_G_: 0 == o2.mostActiveStudent(maximus) expected:	0	but was:	3	">
+test_G_: 0 == o2.mostActiveStudent(maximus) expected:	0	but was:	3	
+			</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
