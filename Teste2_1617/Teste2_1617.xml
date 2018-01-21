@@ -1,0 +1,19 @@
+<testsuites>
+	<testsuite name="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" tests="7">
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_A_"/>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_B_"/>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_C_"/>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_D_"/>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_E_">
+			<failure message="../src/Test.cpp:188 test_E_: bar_codes[i] == (*it)-&gt;getBarCode() expected:	6	but was:	4	">
+test_E_: bar_codes[i] == (*it)-&gt;getBarCode() expected:	6	but was:	4	
+			</failure>
+		</testcase>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_F_"/>
+		<testcase classname="AEDA 2016/2017 - Avaliacao CI2- 23/nov - Testes Unitarios Estudantes" name="test_G_">
+			<failure message="../src/Test.cpp:254 test_G_: true == a1 == NULL expected:	1	but was:	0	">
+test_G_: true == a1 == NULL expected:	1	but was:	0	
+			</failure>
+		</testcase>
+	</testsuite>
+</testsuites>
